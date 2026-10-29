@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jqrjvnkLzo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerald\\Downloads\\Group_3\\G3_StudentTaskManagementAPI\\G3_StudentTaskManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerald\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\gerald\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

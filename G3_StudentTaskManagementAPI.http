@@ -1,0 +1,6 @@
+@G3_StudentTaskManagementAPI_HostAddress = http://localhost:5249
+
+GET {{G3_StudentTaskManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
