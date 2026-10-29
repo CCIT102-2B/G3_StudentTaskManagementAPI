@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G3_StudentTaskManagementAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5534f1d94dea26ce4cdc7620a6a693e57862574")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cea3d0120ddffec0b699ac7749c7b4e856b5d4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("G3_StudentTaskManagementAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G3_StudentTaskManagementAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
